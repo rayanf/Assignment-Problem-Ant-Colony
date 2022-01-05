@@ -17,7 +17,7 @@ colony = Colony(ant_num = 20,
                )
 cost_history ,path_history = colony.training(50)
 ```
-# Learning plot
+### Learning plot
 ![image](https://user-images.githubusercontent.com/54745174/148154282-68d8a175-111f-4e23-94ba-dc5001946d0d.png)
 
 
